@@ -1,5 +1,5 @@
 # DeepIR-Pred
-The code is the implementation of our method described in the paper “DeepIR-Pred: Accurate Prediction of Insulin Receptor using Metaheuristic-Optimized Multi-View Novel Features with Deep Recurrent Learning”.
+The code is the implementation of our method described in the paper “DeepIR-Pred: Identification of Insulin Receptors using Metaheuristic Optimization of Biologically Informed Multi-View Features with Deep Recurrent Learning”.
 ## (I) 1_Data
 There are two datasets in the data Folder:
 ### (1)	Train dataset
